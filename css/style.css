@@ -91,13 +91,6 @@ p {
     color: #fff;
     overflow: auto;
 }
-.sticky {
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
-    
-  }
-  
 
 #navbar a {
     color: #fff;
